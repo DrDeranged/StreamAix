@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">circleiq</string>
+    <string name="fb_app_id">293489552699862</string>
+    <string name="fb_login_protocol_scheme">fb293489552699862</string>
+</resources>

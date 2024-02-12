@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/blue"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:visibility="visible"
+    tools:visibility="visible">
+
+    <ImageView
+        android:layout_width="411dp"
+        android:layout_height="match_parent"
+        android:layout_marginLeft="@dimen/autofill_inline_suggestion_icon_size"
+        android:layout_marginRight="@dimen/autofill_inline_suggestion_icon_size"
+        android:scaleType="centerCrop"
+        android:src="@mipmap/icon" />
+</LinearLayout>

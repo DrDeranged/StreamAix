@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "944046345822",
+    "project_id": "healthy-dragon-333917",
+    "storage_bucket": "healthy-dragon-333917.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:944046345822:android:2062ddf0a4180bb7102ecf",
+        "android_client_info": {
+          "package_name": "com.circleiq"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "944046345822-ag6hs5dshf7pgrns334m9qcfq4280muo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.circleiq",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "944046345822-j5ccl62kr0sd1vs28c8bl3s5goj6cae9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt1vYN8vkwC5BsVBHwJDM_a46Q78S7Mok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "944046345822-j5ccl62kr0sd1vs28c8bl3s5goj6cae9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "944046345822-jl5o6o3se2aqc60l7fobb884lkiia2jl.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.circleiq.ios"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
